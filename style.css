@@ -1,0 +1,23 @@
+.body_background{
+ background: url("Background.png");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.lable{
+    color: black;
+}
+.login_div1,.login_div2{
+    background-color: white;
+    border-radius: 25px;
+    width: 500px;
+    margin-bottom:15px;
+float: none;
+padding: 10px;
+padding-bottom: 28px;
+}
+.gm{
+    color: white;
+}
+#login_btn{
+    padding-top: 20px;
+}
